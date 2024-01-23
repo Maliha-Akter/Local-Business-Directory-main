@@ -159,7 +159,7 @@
                 <input type="text" class="form-control" style="margin-left: 5px;" name="unit" id="unit">
               </div>
 
-              <button type="submit" class="btn btn-default" style="margin-top: 50px; margin-left: auto; margin-right: 0%;" name="add">Add item</button>
+              <button type="submit" class="btn btn-default" style="margin-top: 50px; margin-left: auto; margin-right: 0%; background-color:#00B4CC" name="add">Add item</button>
 
             </form>
           </body>
